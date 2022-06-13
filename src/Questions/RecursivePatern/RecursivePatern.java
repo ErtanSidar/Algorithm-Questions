@@ -8,7 +8,7 @@ public class RecursivePatern {
 		// TODO Auto-generated method stub
 		
 		Scanner scanner= new Scanner(System.in);
-		System.out.println("Enter a number : ");
+		System.out.print("Enter a number : ");
         int number = scanner.nextInt();
         
 		positive(negative(number),number);
