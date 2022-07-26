@@ -1,0 +1,52 @@
+# Algorithm Questions
+There is several algorithms I find funny and write them by myself as a hobby
+
+- [x] Account Validations
+- [x] Advanced Calculator
+- [x] Array Frequency
+- [x] Account Validations
+- [x] Array Harmonic
+- [x] Array Min Max
+- [x] Array Repetitive
+- [x] Array Sorting
+- [x] Array Sum
+- [x] Array Transpose
+- [x] Body Mass Index Calculator
+- [x] Calculate Vg
+- [x] Calculator
+- [x] Capital Letters
+- [x] Chinese Zodiac
+- [x] Circle Area
+- [x] Combination
+- [x] DigitSum
+- [x] Draw Star
+- [x] Draw Star With Array
+- [x] Ebob Ekok
+- [x] Even Number
+- [x] Exponentiation
+- [x] Fibonacci
+- [x] Find Hypotenuse
+- [x] Gpa Student
+- [x] Grade Average
+- [x] Guess Number
+- [x] Harmonic
+- [x] Horoscope
+- [x] Inverted Triangle
+- [x] Leap Year
+- [x] Loops
+- [x] Min Max
+- [x] Odd Sum
+- [x] Palindrome
+- [x] Pass The Class
+- [x] Perfect Number
+- [x] Polindrome String
+- [x] Recursive Exp
+- [x] Recursive Fib
+- [x] Recursive Patern
+- [x] Recursive Prime
+- [x] Sorting
+- [x] Taximeter Program
+- [x] Temperature
+- [x] Ticket
+- [x] Validation
+- [x] Vat Calculator
